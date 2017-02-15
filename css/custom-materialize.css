@@ -22,7 +22,7 @@ header, main, footer {
 }
 
 .left-padding{
-    padding-left: 50px;
+    padding-left: 30px;
 }
 .userView .name, .userView .email{
     font-size: 1.2em !important;
